@@ -1,0 +1,20 @@
+body {
+    background-color: lightblue;
+    padding: 0;
+    margin: 0;
+}
+
+table {
+    width: 100%;
+    height: 100vh;
+}
+
+td {
+    border-collapse: collapse;
+    border: 4px solid black;
+    width: calc(100%/3);
+}
+a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}

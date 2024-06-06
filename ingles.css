@@ -1,0 +1,24 @@
+body {
+    background-color: lightblue;
+    padding: 0;
+    margin: 0;
+}
+
+table {
+    width: 100%;
+    height: 100vh;
+}
+
+td {
+    border-collapse: collapse;
+    border: 4px solid black;
+    width: 50%;
+    width: calc(100%/3);
+}
+table{
+    width: 50%;
+    height: 50vh;
+}
+h1{
+    font-size: 30px;
+}

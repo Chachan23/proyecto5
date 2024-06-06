@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+
+}
+.h3-1{
+    text-align: left;
+    color:green ;
+}
+.h4-1{
+    text-align: left;
+    color: green;
+}
+.h3-2{
+    text-align: center;
+    color:green ;
+}
+.h4-2{
+    text-align: center;
+    color: green;
+}
+.h3-3{
+    text-align: right;
+    color:green ;
+}
+.h4-3{
+    text-align: right;
+    color: green;
+}

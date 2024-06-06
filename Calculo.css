@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+h1{
+    Text-align :center;
+    Color :blue;
+    }
+    h2 {
+    Text-align :center;
+    Color :aqua ;
+    }
+    .img2{
+    Float:center;
+    Width :100px;
+    Height:143px;
+    }
+    .img3{
+    Float:right;
+    Width :150px;
+    Height:145px;
+    }
+    .img4{
+    Float :left ;
+    Width:100px;
+    Height:145px;
+    }
